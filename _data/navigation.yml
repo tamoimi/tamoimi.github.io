@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "Home"
-    url: https://tamoimi.github.io/
+    url: /
 
   - title: "About"
     url: /about/
