@@ -26,4 +26,6 @@ last_modified_at: 2023-03-09
 2. Jekyll 설치
    루비 설치를 완료하면 `ruby -v`으로 버전 및 설치를 확인 할 수 있다.
 
+3. 설치 
+
 <!-- ![테스트](https://user-images.githubusercontent.com/100749520/224252441-c78218b2-ba3e-4e03-83d3-c662c7f7a11d.png) -->
