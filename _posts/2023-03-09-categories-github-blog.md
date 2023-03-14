@@ -7,7 +7,7 @@ categories:
 tags:
   - [Github, Blog, MarkDown]
 
-permalink: /Blog/git-hub-blog-02/
+permalink: /Blog/git-hub-blog-01/
 
 toc: true
 toc_sticky: true
@@ -18,7 +18,8 @@ last_modified_at: 2023-03-09
 
 ## 👩🏻 설치
 
-1. 루비 설치 https://rubyinstaller.org/downloads/
+1. 루비 설치 
+   <https://rubyinstaller.org/downloads/>{:target="_blank"}
    DEVKIT이 필요하므로 With DEVKIT에 있는 버전을 다운 받는다.
    Jekyll이 32bit이기 때문에 설치시 32bit으로 다운 받는다.
 
