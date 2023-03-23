@@ -40,6 +40,8 @@ const Print = () => {
 
   const handlePrint = useReactToPrint({
     content: () => componentRef.current,
+    documentTitle: "파일 다운로드 시 저장되는 이름 작성" ,
+    onAfterPrint: () => alert("파일 다운로드 후 알림창 생성 가능")
   });
 
   return (
