@@ -21,6 +21,7 @@ $monospace: "Pretendard-Regular", Monaco, Consolas, "Lucida Console", monospace 
 /* sans serif typefaces */
 $sans-serif-narrow: $sans-serif !default;
 $helvetica: Helvetica, "Helvetica Neue", Arial, sans-serif !default;
+$menufont: -apple-system, BlinkMacSystemFont, 'Apple SD Gothic Neo', "Montserrat", "BioRhyme", "Pretendard", sans-serif !default;
 
 /* serif typefaces */
 $georgia: Georgia, serif !default;
@@ -28,6 +29,7 @@ $times: Times, serif !default;
 $bodoni: "Bodoni MT", serif !default;
 $calisto: "Calisto MT", serif !default;
 $garamond: Garamond, serif !default;
+
 
 $global-font-family: $sans-serif !default;
 $header-font-family: $serif !default;
@@ -155,9 +157,9 @@ $max-width: $x-large !default;
    Grid
    ========================================================================== */
 
-$right-sidebar-width-narrow: 200px !default;
-$right-sidebar-width: 300px !default;
-$right-sidebar-width-wide: 400px !default;
+$right-sidebar-width-narrow: 200px !default; // default 200px
+$right-sidebar-width: 300px !default; // default 300px
+$right-sidebar-width-wide: 400px !default; // default 400px
 
 /*
    Other
