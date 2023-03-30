@@ -3,7 +3,7 @@ title: "[Algorithm] 문자 반복 출력하기"
 categories:
   - Algorithms
 tags:
-  - [Algorithms, JavaScript, repeat, join, Destructuring assignment]
+  - [Algorithms, JavaScript, repeat, join, Spread syntax]
 permalink: /Blog/algorithm-06/
 toc: true
 toc_sticky: true
