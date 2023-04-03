@@ -7,7 +7,7 @@ tags:
 permalink: /Blog/algorithm-01/
 toc: true
 toc_sticky: true
-toc_label: # "GITHUB BLOG START"
+toc_label: # "ALGORITHM"
 date: 2023-03-14
 last_modified_at: 2023-03-14
 ---
