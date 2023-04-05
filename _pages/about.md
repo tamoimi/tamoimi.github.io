@@ -5,8 +5,6 @@ layout: single
 comments: false
 ---
 
-# Portfolio
-
 ### Skill
 
 - P​rogramming language
