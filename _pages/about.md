@@ -12,7 +12,7 @@ comments: false
   - JavaScript, TypeScript
 
 - Framework / Library
-  - React.js, Next.js
+  - React.js, Next.js                
 
 ### Experience
 
