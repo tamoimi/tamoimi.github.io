@@ -4,7 +4,7 @@ categories:
   - Algorithms
 tags:
   - [Algorithms, JavaScript, reduce, split]
-permalink: /Blog/algorithm-09/
+permalink: /Blog/algorithm-10/
 toc: true
 toc_sticky: true
 toc_label: # "ALGORITHM"
