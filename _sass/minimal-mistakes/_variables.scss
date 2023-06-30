@@ -1,22 +1,16 @@
-/* ==========================================================================
-   Variables
-   ========================================================================== */
-
-/*
-   Typography
-   ========================================================================== */
-
 $doc-font-size: 16 !default;
 
 /* paragraph indention */
 $paragraph-indent: false !default; // true, false (default)
 $indent-var: 0.71em !default;
 
+/* set main font */
+$customFont: "SUITE-Regular";
+
 /* system typefaces */
-$serif: "LINESeedKR-Bd", Georgia, Times, serif !default;
-$sans-serif: "LINESeedKR-Bd", -apple-system, BlinkMacSystemFont, "Roboto",
-  sans-serif !default;
-$monospace: Monaco, Consolas, "Lucida Console", monospace !default;
+$serif: $customFont, Georgia, Times, serif !default;
+$sans-serif: $customFont, -apple-system, BlinkMacSystemFont, "Roboto", sans-serif !default;
+$monospace: $customFont, Monaco, Consolas, "Lucida Console", monospace !default;
 
 /* sans serif typefaces */
 $sans-serif-narrow: $sans-serif !default;
