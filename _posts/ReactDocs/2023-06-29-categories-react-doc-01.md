@@ -1,5 +1,5 @@
 ---
-title: "[React Docs] 1️⃣Hello World"
+title: "[React Docs] 1. Hello World"
 date: 2023-06-29
 categories:
   - React
