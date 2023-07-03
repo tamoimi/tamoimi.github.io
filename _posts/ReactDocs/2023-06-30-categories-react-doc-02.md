@@ -1,5 +1,5 @@
 ---
-title: "[React Docs] 2️⃣JSX 소개"
+title: "[React Docs] 2️. JSX 소개"
 date: 2023-06-30
 categories:
   - React
