@@ -16,7 +16,7 @@ minimal_mistakes_skin: "custom" # "air", "aqua", "contrast", "dark", "dirt", "ne
 
 # Site Settings
 locale: "en-US"
-title: "Tami's blog 🐳"
+title: "Tami's blog 🦦"
 title_separator: "-"
 subtitle: # site tagline that appears below site title in masthead
 name: "Tami Kim"
@@ -104,7 +104,7 @@ analytics:
 # Site Author
 author:
   name: "Tami Kim"
-  avatar: "/assets/images/logo.png"
+  avatar: "/assets/images/meLogo.png"
   bio: "I am an **amazing** person."
   location: "South Korea 🌊"
   email:
