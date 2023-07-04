@@ -12,6 +12,8 @@ toc_label: "엘리먼트 렌더링"
 last_modified_at: 2023-07-03
 ---
 
+> 본 게시글은 [리액트 공식문서(영문)](https://reactjs.org/docs/getting-started.html)를 읽고 정리한 글이다.
+
 ## 엘리먼트 렌더링
 
 - 엘리먼트는 React 앱의 **가장 작은 단위**이고 **화면에 표시할 내용**을 기술한다.

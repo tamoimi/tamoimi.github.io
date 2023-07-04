@@ -14,7 +14,7 @@ last_modified_at: 2023-06-29
 
 ## Hello World!
 
-[참고하는 리액트 문서](https://ko.legacy.reactjs.org/docs/hello-world.html)
+> 본 게시글은 [리액트 공식문서(영문)](https://reactjs.org/docs/getting-started.html)를 읽고 정리한 글이다.
 
 오늘 부터 리액트 문서를 읽고 요약할 것이다.  
 이 문서는 오래되어 업데이트 되지 않을 것이기 때문에 [react.dev](https://react.dev)에서 업데이트 된 내용을 확인 할 수 있다.
