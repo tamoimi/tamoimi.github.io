@@ -12,7 +12,7 @@ toc_label: "컴포넌트와 속성"
 last_modified_at: 2023-07-04
 ---
 
-> 본 게시글은 [리액트 공식문서(영문)](https://reactjs.org/docs/getting-started.html)를 읽고 정리한 글이다.
+> 본 게시글은 [리액트 공식문서](https://reactjs.org/docs/getting-started.html)를 읽고 정리한 글이다.
 
 ## Components와 Props - 컴포넌트와 속성
 

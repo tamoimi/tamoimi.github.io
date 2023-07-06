@@ -12,7 +12,7 @@ toc_label: "엘리먼트 렌더링"
 last_modified_at: 2023-07-03
 ---
 
-> 본 게시글은 [리액트 공식문서(영문)](https://reactjs.org/docs/getting-started.html)를 읽고 정리한 글이다.
+> 본 게시글은 [리액트 공식문서](https://reactjs.org/docs/getting-started.html)를 읽고 정리한 글이다.
 
 ## 엘리먼트 렌더링
 
