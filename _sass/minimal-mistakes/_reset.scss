@@ -8,18 +8,18 @@ html {
   /* apply a natural box layout model to all elements */
   box-sizing: border-box;
   background-color: $background-color;
-  font-size: 16px;
+  font-size: 18px;
 
   @include breakpoint($medium) {
     font-size: 16px;
   }
 
   @include breakpoint($large) {
-    font-size: 16px;
+    font-size: 18px;
   }
 
   @include breakpoint($x-large) {
-    font-size: 16px;
+    font-size: 18px;
   }
 
   -webkit-text-size-adjust: 100%;
@@ -190,7 +190,7 @@ textarea {
 ::-webkit-scrollbar{
   width: 10px; // 세로 스크롤의 너비
   height: 10px; // 가로 스크롤의 너비
-  background-color: transparent // 스크롤의 기본 배경색상
+  background-color: #6d988641 // 스크롤의 기본 배경색상
   
 }
 ::-webkit-scrollbar-thumb{
@@ -199,7 +199,7 @@ textarea {
 }
 
 ::-webkit-scrollbar-track:horizontal{
-  background-color: transparent // 가로 스크롤바 색상
+  background-color: #6d988641 // 가로 스크롤바 색상
 }
 
 
